@@ -1,20 +1,20 @@
-#myElement {
+#myTheme {
     /* c:#000 */
-    color: #000;
+    /* color: #000; */
 
 
 
     /* p:a */
-    padding: auto;
+    /* padding: auto; */
 
     /* p:r */
-    padding: relative;
+    /* padding: relative; */
 
     /* p:f */
-    padding: fixed;
+    /* padding: fixed; */
 
     /* p:s */
-    padding: static;
+    /* padding: static; */
 
 
 
@@ -27,10 +27,10 @@
 
 
     /* fl; */
-    float: left;
+    /* float: left; */
 
     /* fl:r */
-    float: right;
+    /* float: right; */
 
     /* fl:n */
     float: none;
@@ -78,95 +78,95 @@
 
 
     /* p:30 */
-    padding: 30px;
+    /* padding: 30px; */
 
     /* pt:40 */
-    padding-top: 40px;
+    /* padding-top: 40px; */
 
 
 
     /* w:100 */
-    width: 100px;
+    /* width: 100px; */
 
     /* h:50 */
-    height: 50px;
+    /* height: 50px; */
 
     /* h:auto */
-    height: auto;
+    /* height: auto; */
 
 
 
     /* list:n */
-    list-style-type: none;
+    /* list-style-type: none; */
 
     /* list:c */
-    list-style-type: circle;
+    /* list-style-type: circle; */
 
     /* list:s */
-    list-style-type: square;
+    /* list-style-type: square; */
 
 
 
     /* ta:l */
-    text-align: left;
+    /* text-align: left; */
 
     /* ta:r */
-    text-align: right;
+    /* text-align: right; */
 
     /* ta:j */
-    text-align: justify;
+    /* text-align: justify; */
 
 
 
     /* td:n */
-    text-decoration: none;
+    /* text-decoration: none; */
 
     /* td:u */
-    text-decoration: underline;
+    /* text-decoration: underline; */
 
 
 
 
     /* ff:a */
-    font-family: auto;
+    /* font-family: auto; */
 
     
 
 
     /* fw:b */
-    font-weight: bold;
+    /* font-weight: bold; */
 
     /* fw:n */
-    font-weight: normal;
+    /* font-weight: normal; */
 
     /* fw:400 */
-    font-weight: 400;
+    /* font-weight: 400; */
 
 
 
     /* fs:i */
-    font-style: italic;
+    /* font-style: italic; */
 
     /* fw:n */
-    font-style: normal;
+    /* font-style: normal; */
 
     /* fs:o */
-    font-style: oblique;
+    /* font-style: oblique; */
 
 
 
     /* important flag: !TAB  */
-    !important
+    /* !important */
 
 
 
     /* GROUPING: */
 
     /* pr:10+mr:5 */
-    padding-right: 10px;
-    margin-right: 5px;
+    /* padding-right: 10px;
+    margin-right: 5px; */
 
 
 
-    
-}
+
+} 
