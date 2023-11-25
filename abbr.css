@@ -1,0 +1,172 @@
+#myElement {
+    /* c:#000 */
+    color: #000;
+
+
+
+    /* p:a */
+    padding: auto;
+
+    /* p:r */
+    padding: relative;
+
+    /* p:f */
+    padding: fixed;
+
+    /* p:s */
+    padding: static;
+
+
+
+    /* t:50 */
+    top: 50px;
+
+    /* t:50p */
+    top: 50%;
+
+
+
+    /* fl; */
+    float: left;
+
+    /* fl:r */
+    float: right;
+
+    /* fl:n */
+    float: none;
+
+
+
+
+    /* cl: */
+    clear: both;
+
+    /* cl:r */
+    clear: right;
+
+    /* cl:l */
+    clear: left;
+    
+    /* cl:n */
+    clear: none;
+
+
+
+    /* d:b */
+    display: block;
+
+    /* d:i */
+    display: inline;
+
+    /* d:ib */
+    display: inline-block;
+
+
+
+    /* m:10 */
+    margin: 10px;
+
+    /* mr:10 */
+    margin-right: 10px;
+
+    /* ml:20 */
+    margin-left: 20px;
+
+    /* mt:1e */
+    margin-top: 1em;
+
+
+
+    /* p:30 */
+    padding: 30px;
+
+    /* pt:40 */
+    padding-top: 40px;
+
+
+
+    /* w:100 */
+    width: 100px;
+
+    /* h:50 */
+    height: 50px;
+
+    /* h:auto */
+    height: auto;
+
+
+
+    /* list:n */
+    list-style-type: none;
+
+    /* list:c */
+    list-style-type: circle;
+
+    /* list:s */
+    list-style-type: square;
+
+
+
+    /* ta:l */
+    text-align: left;
+
+    /* ta:r */
+    text-align: right;
+
+    /* ta:j */
+    text-align: justify;
+
+
+
+    /* td:n */
+    text-decoration: none;
+
+    /* td:u */
+    text-decoration: underline;
+
+
+
+
+    /* ff:a */
+    font-family: auto;
+
+    
+
+
+    /* fw:b */
+    font-weight: bold;
+
+    /* fw:n */
+    font-weight: normal;
+
+    /* fw:400 */
+    font-weight: 400;
+
+
+
+    /* fs:i */
+    font-style: italic;
+
+    /* fw:n */
+    font-style: normal;
+
+    /* fs:o */
+    font-style: oblique;
+
+
+
+    /* important flag: !TAB  */
+    !important
+
+
+
+    /* GROUPING: */
+
+    /* pr:10+mr:5 */
+    padding-right: 10px;
+    margin-right: 5px;
+
+
+
+    
+}
